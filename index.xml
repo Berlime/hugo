@@ -6,14 +6,21 @@
     <description>Recent content on Alter Ego Edited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 22:18:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 17:56:55 +0800</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guess who is back?</title>
-      <link>/posts/my-first-post/</link>
+      <title>Long Due Company Website</title>
+      <link>/posts/long-due-company-website/</link>
+      <pubDate>Mon, 05 Feb 2024 17:56:55 +0800</pubDate>
+      <guid>/posts/long-due-company-website/</guid>
+      <description>Hello World</description>
+    </item>
+    <item>
+      <title>Guess who is back</title>
+      <link>/posts/guess-who-is-back/</link>
       <pubDate>Thu, 01 Feb 2024 22:18:08 +0800</pubDate>
-      <guid>/posts/my-first-post/</guid>
-      <description>Hmmmmmm</description>
+      <guid>/posts/guess-who-is-back/</guid>
+      <description>HmmmmmmOkay</description>
     </item>
     <item>
       <title>Hello World</title>
