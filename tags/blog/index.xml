@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Alter Ego Edited</title>
-    <link>kamel.berlime.com/tags/blog/</link>
+    <link>/tags/blog/</link>
     <description>Recent content in Blog on Alter Ego Edited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Feb 2024 22:18:08 +0800</lastBuildDate>
-    <atom:link href="kamel.berlime.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guess who is back</title>
-      <link>kamel.berlime.com/posts/guess-who-is-back/</link>
+      <link>/posts/guess-who-is-back/</link>
       <pubDate>Thu, 01 Feb 2024 22:18:08 +0800</pubDate>
-      <guid>kamel.berlime.com/posts/guess-who-is-back/</guid>
+      <guid>/posts/guess-who-is-back/</guid>
       <description>HmmmmmmOkay</description>
     </item>
   </channel>
