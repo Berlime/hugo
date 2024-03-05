@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agency on Alter Ego Edited</title>
-    <link>/tags/agency/</link>
+    <link>kamel.berlime.com/tags/agency/</link>
     <description>Recent content in Agency on Alter Ego Edited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Feb 2024 17:56:55 +0800</lastBuildDate>
-    <atom:link href="/tags/agency/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="kamel.berlime.com/tags/agency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long Due Company Website</title>
-      <link>/posts/long-due-company-website/</link>
+      <link>kamel.berlime.com/posts/long-due-company-website/</link>
       <pubDate>Mon, 05 Feb 2024 17:56:55 +0800</pubDate>
-      <guid>/posts/long-due-company-website/</guid>
+      <guid>kamel.berlime.com/posts/long-due-company-website/</guid>
       <description>Hello World</description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alter Ego Edited</title>
-    <link>/posts/</link>
+    <link>kamel.berlime.com/posts/</link>
     <description>Recent content in Posts on Alter Ego Edited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 08:24:11 +0800</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="kamel.berlime.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Push</title>
-      <link>/posts/my-first-push/</link>
+      <link>kamel.berlime.com/posts/my-first-push/</link>
       <pubDate>Sun, 03 Mar 2024 08:24:11 +0800</pubDate>
-      <guid>/posts/my-first-push/</guid>
+      <guid>kamel.berlime.com/posts/my-first-push/</guid>
       <description>Okay so will this show in SA? Hm</description>
     </item>
     <item>
       <title>Long Due Company Website</title>
-      <link>/posts/long-due-company-website/</link>
+      <link>kamel.berlime.com/posts/long-due-company-website/</link>
       <pubDate>Mon, 05 Feb 2024 17:56:55 +0800</pubDate>
-      <guid>/posts/long-due-company-website/</guid>
+      <guid>kamel.berlime.com/posts/long-due-company-website/</guid>
       <description>Hello World</description>
     </item>
     <item>
       <title>Guess who is back</title>
-      <link>/posts/guess-who-is-back/</link>
+      <link>kamel.berlime.com/posts/guess-who-is-back/</link>
       <pubDate>Thu, 01 Feb 2024 22:18:08 +0800</pubDate>
-      <guid>/posts/guess-who-is-back/</guid>
+      <guid>kamel.berlime.com/posts/guess-who-is-back/</guid>
       <description>HmmmmmmOkay</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>kamel.berlime.com/posts/hello-world/</link>
       <pubDate>Thu, 01 Feb 2024 09:20:43 +0800</pubDate>
-      <guid>/posts/hello-world/</guid>
+      <guid>kamel.berlime.com/posts/hello-world/</guid>
       <description>Okay so now this is my first post on test brunch</description>
     </item>
   </channel>
