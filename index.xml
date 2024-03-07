@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alter Ego Edited 2</title>
-    <link>px2is0.satemporary.click/</link>
+    <link>/</link>
     <description>Recent content on Alter Ego Edited 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 08:24:11 +0800</lastBuildDate>
-    <atom:link href="px2is0.satemporary.click/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Push</title>
-      <link>px2is0.satemporary.click/posts/my-first-push/</link>
+      <link>/posts/my-first-push/</link>
       <pubDate>Sun, 03 Mar 2024 08:24:11 +0800</pubDate>
-      <guid>px2is0.satemporary.click/posts/my-first-push/</guid>
+      <guid>/posts/my-first-push/</guid>
       <description>Okay so will this show in SA? Hm</description>
     </item>
     <item>
       <title>Long Due Company Website</title>
-      <link>px2is0.satemporary.click/posts/long-due-company-website/</link>
+      <link>/posts/long-due-company-website/</link>
       <pubDate>Mon, 05 Feb 2024 17:56:55 +0800</pubDate>
-      <guid>px2is0.satemporary.click/posts/long-due-company-website/</guid>
+      <guid>/posts/long-due-company-website/</guid>
       <description>Hello World</description>
     </item>
     <item>
       <title>Guess who is back</title>
-      <link>px2is0.satemporary.click/posts/guess-who-is-back/</link>
+      <link>/posts/guess-who-is-back/</link>
       <pubDate>Thu, 01 Feb 2024 22:18:08 +0800</pubDate>
-      <guid>px2is0.satemporary.click/posts/guess-who-is-back/</guid>
+      <guid>/posts/guess-who-is-back/</guid>
       <description>HmmmmmmOkaysdfasdfasdfasdf</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>px2is0.satemporary.click/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Thu, 01 Feb 2024 09:20:43 +0800</pubDate>
-      <guid>px2is0.satemporary.click/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>Okay so now this is my first post on test brunch</description>
     </item>
   </channel>
