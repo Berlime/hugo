@@ -2,36 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/alter-ego-2/</loc>
+    <loc>alterego.berlime.com/posts/alter-ego-2/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>alterego.berlime.com/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>/tags/blog/</loc>
+    <loc>alterego.berlime.com/tags/blog/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>alterego.berlime.com/posts/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>alterego.berlime.com/tags/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-push/</loc>
-    <lastmod>2024-03-03T08:24:11+08:00</lastmod>
-  </url><url>
-    <loc>/tags/agency/</loc>
-    <lastmod>2024-02-05T17:56:55+08:00</lastmod>
-  </url><url>
-    <loc>/posts/long-due-company-website/</loc>
-    <lastmod>2024-02-05T17:56:55+08:00</lastmod>
-  </url><url>
-    <loc>/posts/guess-who-is-back/</loc>
-    <lastmod>2024-02-01T22:18:08+08:00</lastmod>
-  </url><url>
-    <loc>/posts/hello-world/</loc>
-    <lastmod>2024-02-01T09:20:43+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
+    <loc>alterego.berlime.com/categories/</loc>
   </url>
 </urlset>
