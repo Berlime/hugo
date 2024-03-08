@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>alterego.berlime.com/posts/alter-ego-2/</loc>
+    <loc>https://alterego.berlime.com/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>alterego.berlime.com/</loc>
+    <loc>https://alterego.berlime.com/posts/alter-ego-2/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>alterego.berlime.com/tags/blog/</loc>
+    <loc>https://alterego.berlime.com/tags/blog/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>alterego.berlime.com/posts/</loc>
+    <loc>https://alterego.berlime.com/posts/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>alterego.berlime.com/tags/</loc>
+    <loc>https://alterego.berlime.com/tags/</loc>
     <lastmod>2024-03-08T19:35:45+08:00</lastmod>
   </url><url>
-    <loc>alterego.berlime.com/categories/</loc>
+    <loc>https://alterego.berlime.com/categories/</loc>
   </url>
 </urlset>
