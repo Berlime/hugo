@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>/posts/my-first-push/</loc>
     <lastmod>2024-03-03T08:24:11+08:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-push/</loc>
+    <loc>/</loc>
     <lastmod>2024-03-03T08:24:11+08:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
