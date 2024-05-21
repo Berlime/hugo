@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agency on Alter Ego Edited 2</title>
-    <link>/tags/agency/</link>
-    <description>Recent content in Agency on Alter Ego Edited 2</description>
+    <title>agency on Alter Ego 2</title>
+    <link>https://alterego.berlime.com/tags/agency/</link>
+    <description>Recent content in agency on Alter Ego 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2024 17:56:55 +0800</lastBuildDate>
-    <atom:link href="/tags/agency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2024 13:08:31 +0800</lastBuildDate>
+    <atom:link href="https://alterego.berlime.com/tags/agency/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Long Due Company Website</title>
-      <link>/posts/long-due-company-website/</link>
-      <pubDate>Mon, 05 Feb 2024 17:56:55 +0800</pubDate>
-      <guid>/posts/long-due-company-website/</guid>
-      <description>Hello World</description>
+      <title>My Agency</title>
+      <link>https://alterego.berlime.com/posts/my-agency/</link>
+      <pubDate>Tue, 16 Jan 2024 13:08:31 +0800</pubDate>
+      <guid>https://alterego.berlime.com/posts/my-agency/</guid>
+      <description>Hello there, here is the first post that I will be sharing about my agency.&#xA;I run a web design and development agenncy. I started out small by creating a website for my wedding business. This was before the Covid-19 pandemic. My sole purpose to create a website for my wedding business is to seamlessly connect multiple providers with customers without having to communicate with me the wedding planner.&#xA;It is a system a develop and still in developing for available for public as an app.</description>
     </item>
   </channel>
 </rss>
